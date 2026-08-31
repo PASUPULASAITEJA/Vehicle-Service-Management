@@ -175,14 +175,6 @@
 
 ---
 
-## 📞 Contact
-
-For any queries regarding this project, please contact:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile - Optional]
-
----
-
 ## ⭐ Acknowledgments
 
 - **National Internship Program (NIP)** - For providing this learning opportunity
