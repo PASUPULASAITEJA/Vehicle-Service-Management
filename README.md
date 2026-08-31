@@ -11,9 +11,9 @@
 ### 👨‍💻 Developer
 - **Name:** PASUPULA SAI TEJA
 - **College:** SVKM's NMIMS deemed to be University Hyderabad
-- **Course:** [Your Course]
+- **Course:** Computer Science (Data Science)
 - **State:** Telangana
-- **Email:** [Your Email]
+- **Email:** pasupulasai.teja37@nmims.in
 
 ---
 
