@@ -154,15 +154,6 @@
 
 ---
 
-## 📄 Submission Details
-
-- **Submission Document:** VehicleService_PASUPULA_SAI_TEJA.docx
-- **Pega Instance URL:** [Your Pega Instance URL]
-- **Operator Name:** PASUPULA SAI TEJA
-- **Submission Date:** [Date]
-
----
-
 ## 🔐 Access Information
 
 **Demo Credentials:**
